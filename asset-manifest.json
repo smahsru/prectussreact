@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prectussreact/static/css/main.073c9b0a.css",
+    "main.js": "/prectussreact/static/js/main.5cdffecc.js",
+    "static/js/787.cda612ba.chunk.js": "/prectussreact/static/js/787.cda612ba.chunk.js",
+    "static/media/logo.svg": "/prectussreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/prectussreact/index.html",
+    "main.073c9b0a.css.map": "/prectussreact/static/css/main.073c9b0a.css.map",
+    "main.5cdffecc.js.map": "/prectussreact/static/js/main.5cdffecc.js.map",
+    "787.cda612ba.chunk.js.map": "/prectussreact/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5cdffecc.js"
+  ]
+}
